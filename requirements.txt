@@ -7,7 +7,7 @@ cffi==1.12.3
 chardet==3.0.4
 colorama==0.4.1
 coverage==4.5.3
-Django==2.2.1
+Django==2.2.13
 djangorestframework==3.9.3
 docutils==0.14
 geoip2==2.9.0
