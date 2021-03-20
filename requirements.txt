@@ -14,7 +14,7 @@ geoip2==2.9.0
 httpie==1.0.2
 idna==2.8
 importlib-metadata==0.15
-Jinja2==2.10.1
+Jinja2==2.11.3
 langdetect==1.0.7
 MarkupSafe==1.1.1
 maxminddb==1.4.1
