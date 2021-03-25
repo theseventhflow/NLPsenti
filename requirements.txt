@@ -31,7 +31,7 @@ pytest-cov==2.7.1
 pytest-django==3.4.8
 python-memcached==1.59
 pytz==2019.1
-PyYAML==5.1
+PyYAML==5.4
 requests==2.21.0
 selenium==3.141.0
 six==1.12.0
