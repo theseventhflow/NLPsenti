@@ -39,6 +39,6 @@ sqlparse==0.3.0
 tblib==1.4.0
 textblob==0.15.3
 textblob-fr==0.2.0
-urllib3==1.24.3
+urllib3==1.26.5
 wcwidth==0.1.7
 zipp==0.5.1
